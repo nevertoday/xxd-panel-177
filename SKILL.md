@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D. The canonical source is byte-identical to Panel 178; these are equivalent numbered entries, not different styles.
+Compress the recognisable subject into one irregular silhouette container with nested, layered graphic isomorphism, occupying only 15–25% of the design region. Keep 75–85% clean warm-ivory negative space; allow directional off-centre placement and very few controlled boundary breaks, never dispersed elements. Combine modern Eastern minimalism, fine woodcut lines, symbolic flat shapes and light print grain. Preserve the fixed palette: deep ink navy, layered grey olive/sage greens, tiny vermilion or terracotta accents. Avoid pure black, bright green, large red fields, festival styling, cartoons and 3D.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 

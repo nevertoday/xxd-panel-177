@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 177"
-  short_description: "Irregular Silhouette Woodcut Micro-island"
-  default_prompt: "Use $xxd-panel-177 to transform my photograph following the complete canonical source brief."
+  short_description: "异形微岛版画志：把照片压进一座小小的异形版画岛，墨藏青、灰橄榄绿加一点朱砂橙"
+  default_prompt: "Use $xxd-panel-177 to turn my photo into Irregular Silhouette Woodcut Micro-island artwork."

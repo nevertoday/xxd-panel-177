@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 177｜Irregular Silhouette Woodcut Micro-island: compresses the core of a photo, plus one or two meaningful hints of its setting, into a single compact, irregularly shaped visual island in a modern Eastern minimal printmaking language — clear silhouettes, a few flat colour planes, fine engraved lines and light print grain, with only a few branches or lines breaking out — covering about 15–25% of a warm ivory page. Fixed palette: deep ink navy, layered sage and grey-olive greens, and a tiny vermilion accent; no pure black, bright green or large Chinese red. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-177 or asks for a minimal Eastern woodcut island or navy-olive line-print emblem from a photo.",
+  "short_description": "异形微岛版画志：把照片压进一座小小的异形版画岛，墨藏青、灰橄榄绿加一点朱砂橙",
+  "zh-CN": {
+    "name": "异形微岛版画志",
+    "tagline": "把照片的核心压进一座小小的异形版画岛，用墨藏青、灰橄榄绿和一点朱砂橙刻出来。",
+    "look": "照片里最核心的主体，连同一两处最有意义的环境线索，被压缩、嵌套、层叠成一个紧凑的异形轮廓，像一座孤立的视觉小岛。造型是现代东方极简的版画语言：清晰剪影、少量平面色块、细密刻线和一点印刷颗粒，只有极少的枝叶、线条或轮廓克制地探出岛外。小岛只占约 15–25%，可以偏上、偏侧或贴边，其余是暖象牙白的大片留白。颜色固定为深墨藏青压主结构，鼠尾草灰绿、灰橄榄绿、深墨绿分出层次，朱砂或陶土橙只点极小一处；不用纯黑、鲜绿和大面积中国红。少量字落在留白里。",
+    "traits": [
+      "异形视觉岛屿",
+      "版画细线",
+      "克制破框",
+      "墨藏青灰橄榄绿",
+      "暖象牙白留白"
+    ],
+    "good": [
+      "主体加一两样环境线索就能讲清的照片：山前的房子、树下的人、湖上的船",
+      "自然和建筑题材：一棵松、一座塔、一片山、一扇窗与窗外的树",
+      "想做成书封、文化品牌标志感插画或东方极简海报的照片"
+    ],
+    "poor": [
+      "色彩是重点、想保留原色的照片，这里会换成固定的藏青、橄榄绿和一点朱砂",
+      "需要满版山水或完整背景的照片，内容只集中在一小块",
+      "想要喜庆国风、大面积红色、卡通或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Irregular Silhouette Woodcut Micro-island",
+    "tagline": "Compresses the heart of your photo into one small, irregular print-style island in ink navy, grey-olive and a dot of vermilion.",
+    "look": "The core subject, together with one or two meaningful hints of its setting, is compressed, nested and layered into one compact irregular shape, like an isolated island. It is drawn in a modern Eastern minimal printmaking language: clear silhouettes, a few flat colour planes, fine engraved lines and a little print grain, with only a few branches, lines or edges stepping out of the island in a controlled way. The island covers only about 15–25% of the space and can sit high, to one side or against an edge, leaving wide warm ivory white space. The palette is fixed: deep ink navy for the main structure, sage, grey-olive and deep ink green for layers, and one tiny touch of vermilion or terracotta; no pure black, bright green or large areas of Chinese red. A few words sit in the white space.",
+    "traits": [
+      "Irregular visual island",
+      "Fine print lines",
+      "Controlled frame-breaking",
+      "Ink navy and grey-olive",
+      "Warm ivory space"
+    ],
+    "good": [
+      "Photos that a subject and one or two setting clues can explain: a house before a mountain, someone under a tree, a boat on a lake",
+      "Nature and architecture: a pine, a pagoda, a range of hills, a window with a tree outside",
+      "Photos you want as a book cover, an emblem-like cultural brand illustration or a minimal Eastern poster"
+    ],
+    "poor": [
+      "Photos whose own colours matter, since they are replaced by the fixed navy, olive and a dot of vermilion",
+      "Photos that need an edge-to-edge landscape or full background, as everything is gathered into one small patch",
+      "Requests for festive Chinese styling, large areas of red, cartoons or 3D"
+    ]
+  },
+  "ja": {
+    "name": "異形シルエットの版画ミクロ島",
+    "tagline": "写真の核を小さな異形の版画の島に押し込め、墨紺、灰オリーブ、わずかな朱橙で刻みます。",
+    "look": "写真のいちばん核となる主役を、意味のある周囲の手がかり一、二点とともに、ひとつのまとまった異形の輪郭に圧縮し、入れ子にし、重ねて、孤立した小さな島のようにします。表現は現代東洋のミニマルな版画の言葉で、はっきりしたシルエット、少しの平らな色面、細かな彫り線、わずかな刷りの粒子があり、枝葉や線、輪郭がほんの少しだけ控えめに島の外へ出ます。島は画面のおよそ 15〜25% で、上寄り、横寄り、端に寄せてもよく、残りは温かな象牙色の広い余白です。色は決まっていて、主な構造は深い墨紺、層はセージの灰緑、灰オリーブ、深い墨緑、朱やテラコッタ橙はごく小さく一点だけで、純黒、鮮やかな緑、広い面積の中国の赤は使いません。言葉は余白に少しだけ入ります。",
+    "traits": [
+      "異形の視覚の島",
+      "版画の細線",
+      "控えめなはみ出し",
+      "墨紺と灰オリーブ",
+      "温かな象牙色の余白"
+    ],
+    "good": [
+      "主役と周囲の手がかり一、二点で語れる写真：山の前の家、木の下の人、湖の舟",
+      "自然や建築の題材：一本の松、塔、連なる山、窓と窓の外の木",
+      "本の表紙、文化ブランドのマーク的なイラスト、東洋的なミニマルポスターにしたい写真"
+    ],
+    "poor": [
+      "元の色が大切な写真（決まった紺、オリーブ、わずかな朱に置き換わります）",
+      "画面いっぱいの山水や背景全体が必要な写真（内容は小さな一か所に集まります）",
+      "お祝いの中華風、広い赤、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "이형 실루엣 판화 미니 섬",
+    "tagline": "사진의 핵심을 작은 이형 판화 섬 하나에 눌러 담고, 먹감색, 회올리브, 주홍 한 점으로 새깁니다.",
+    "look": "사진의 가장 핵심인 주인공을 의미 있는 주변 단서 한두 가지와 함께 압축하고 포개고 겹쳐, 하나의 단단한 이형 윤곽, 곧 외딴 시각의 섬처럼 만듭니다. 표현은 현대 동양 미니멀 판화의 언어로, 또렷한 실루엣, 약간의 평면 색면, 촘촘한 새김선, 약간의 인쇄 입자가 있으며, 가지와 잎, 선, 윤곽 몇 개만 절제해서 섬 밖으로 나옵니다. 섬은 화면의 약 15~25%만 차지하고 위나 옆, 가장자리로 치우쳐도 되며, 나머지는 따뜻한 상아색의 넓은 여백입니다. 색은 정해져 있어, 주 구조는 짙은 먹감색, 층은 세이지 회녹, 회올리브, 짙은 먹초록이며, 주홍이나 테라코타 주황은 아주 작게 한 점만 씁니다. 순검정, 선명한 초록, 넓은 중국식 빨강은 쓰지 않습니다. 글은 여백에 조금만 들어갑니다.",
+    "traits": [
+      "이형 시각 섬",
+      "판화 세선",
+      "절제된 경계 넘기",
+      "먹감색과 회올리브",
+      "따뜻한 상아색 여백"
+    ],
+    "good": [
+      "주인공과 주변 단서 한두 가지로 설명되는 사진: 산 앞의 집, 나무 아래 사람, 호수 위 배",
+      "자연과 건축 소재: 소나무 한 그루, 탑, 이어진 산, 창과 창밖의 나무",
+      "책 표지, 마크 같은 문화 브랜드 일러스트, 동양적 미니멀 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "원래 색이 중요한 사진(정해진 감색, 올리브, 주홍 한 점으로 바뀝니다)",
+      "꽉 찬 산수나 배경 전체가 필요한 사진(내용이 작은 한 곳에 모입니다)",
+      "경축 분위기의 중국풍, 넓은 빨강, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "جزيرة مصغرة بطباعة خطية وحدود غير منتظمة",
+    "tagline": "يضغط قلب صورتك في جزيرة صغيرة واحدة غير منتظمة الشكل بأسلوب الطباعة، بالكحلي الحبري والزيتوني الرمادي ونقطة من القرمزي.",
+    "look": "يُضغط العنصر الجوهري، مع تلميح أو تلميحين ذوي معنى من محيطه، ويُدمج ويُراكب في شكل واحد متماسك غير منتظم، كجزيرة معزولة. يُرسم بلغة طباعة شرقية حديثة بسيطة: صور ظلية واضحة، ومساحات لونية مسطّحة قليلة، وخطوط محفورة دقيقة، وقليل من حبيبات الطباعة، ولا يخرج من الجزيرة إلا بضعة أغصان أو خطوط أو حواف بشكل متحفظ. لا تغطي الجزيرة إلا نحو 15 إلى 25 بالمئة من المساحة، ويمكن أن ترتفع أو تميل إلى جانب أو تلامس الحافة، ويبقى الباقي فراغاً عاجياً دافئاً واسعاً. الألوان ثابتة: كحلي حبري عميق للبنية الرئيسية، ودرجات المريمية الرمادية والزيتوني الرمادي والأخضر الحبري العميق للطبقات، ولمسة صغيرة جداً من القرمزي أو البرتقالي الطيني؛ بلا أسود خالص ولا أخضر زاهٍ ولا مساحات كبيرة من الأحمر الصيني. وتقع كلمات قليلة في الفراغ.",
+    "traits": [
+      "جزيرة بصرية غير منتظمة",
+      "خطوط طباعة دقيقة",
+      "كسر متحفظ للإطار",
+      "كحلي حبري وزيتوني رمادي",
+      "فراغ عاجي دافئ"
+    ],
+    "good": [
+      "صور يشرحها عنصر وتلميح أو تلميحان من المكان: بيت أمام جبل، شخص تحت شجرة، قارب على بحيرة",
+      "موضوعات الطبيعة والعمارة: صنوبرة، معبد برجي، سلسلة تلال، نافذة وخلفها شجرة",
+      "صور تريدها غلاف كتاب أو رسماً بطابع الشعار لعلامة ثقافية أو ملصقاً شرقياً بسيطاً"
+    ],
+    "poor": [
+      "صور تهمّ ألوانها الأصلية، إذ تُستبدل بالكحلي والزيتوني الثابتين ونقطة من القرمزي",
+      "صور تحتاج إلى منظر يملأ المساحة أو خلفية كاملة، إذ يُجمع كل شيء في بقعة صغيرة واحدة",
+      "طلب طابع صيني احتفالي أو مساحات حمراء كبيرة أو رسوم كرتونية أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}

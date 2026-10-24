@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-177
-description: "Create Panel 177 raster artwork: Irregular Silhouette Woodcut Micro-island. Use when the user invokes xxd-panel-177 or requests this specific visual language."
+description: "XXD Panel 177｜Irregular Silhouette Woodcut Micro-island: compresses the core of a photo, plus one or two meaningful hints of its setting, into a single compact, irregularly shaped visual island in a modern Eastern minimal printmaking language — clear silhouettes, a few flat colour planes, fine engraved lines and light print grain, with only a few branches or lines breaking out — covering about 15–25% of a warm ivory page. Fixed palette: deep ink navy, layered sage and grey-olive greens, and a tiny vermilion accent; no pure black, bright green or large Chinese red. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-177 or asks for a minimal Eastern woodcut island or navy-olive line-print emblem from a photo."
 ---
 
 # XXD Panel 177
